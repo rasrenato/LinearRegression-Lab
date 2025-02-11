@@ -12,6 +12,7 @@ LinearRegression-Lab/
 │── C1_W1_Lab02_Model_Representation_Soln.ipynb  # Representação do modelo / Model representation
 │── C1_W1_Lab03_Cost_function_Soln.ipynb         # Visualização da função de custo / Cost function visualization
 │── C1_W1_Lab04_Gradient_Descent_Soln.ipynb      # Algoritmo do gradiente descendente / Gradient descent algorithm
+│── C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb  # Vetorização e operações NumPy / NumPy Vectorization
 │── requirements.txt                             # Dependências do projeto / Project dependencies
 │── README.md                                    # Informações do projeto / Project information
 ```
@@ -46,6 +47,7 @@ LinearRegression-Lab/
 | **C1_W1_Lab02_Model_Representation_Soln.ipynb** | Implementação da representação do modelo de regressão linear univariada. |
 | **C1_W1_Lab03_Cost_function_Soln.ipynb** | Visualização da função de custo convexa para regressão linear (formato "soup bowl"). |
 | **C1_W1_Lab04_Gradient_Descent_Soln.ipynb** | Implementação do algoritmo do gradiente descendente para otimização da regressão linear. |
+| **C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb** | Exercícios sobre vetorização e operações NumPy para otimização computacional. |
 
 ---
 
