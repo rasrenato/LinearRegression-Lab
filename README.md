@@ -1,8 +1,8 @@
 # 📊 Laboratório de Regressão Linear Interativa / Interactive Linear Regression Lab
 
-Este repositório contém os exercícios do laboratório opcional do curso **"Aprendizado de Máquina Supervisionado: Regressão e Classificação"**. O laboratório explora a implementação de **Regressão Linear Univariada** e a criação de **visualizações interativas**.
+Este repositório contém os exercícios do laboratório opcional do curso **"Aprendizado de Máquina Supervisionado: Regressão e Classificação"**. O laboratório explora a implementação de **Regressão Linear Univariada e Multivariada** e a criação de **visualizações interativas**.
 
-This repository contains the exercises from the optional lab of the **"Supervised Machine Learning: Regression and Classification"** course. The lab explores the implementation of **Univariate Linear Regression** and the creation of **interactive visualizations**.
+This repository contains the exercises from the optional lab of the **"Supervised Machine Learning: Regression and Classification"** course. The lab explores the implementation of **Univariate and Multivariate Linear Regression** and the creation of **interactive visualizations**.
 
 ---
 
@@ -13,6 +13,7 @@ LinearRegression-Lab/
 │── C1_W1_Lab03_Cost_function_Soln.ipynb         # Visualização da função de custo / Cost function visualization
 │── C1_W1_Lab04_Gradient_Descent_Soln.ipynb      # Algoritmo do gradiente descendente / Gradient descent algorithm
 │── C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb  # Vetorização e operações NumPy / NumPy Vectorization
+│── C1_W2_Lab02_Multiple_Variable_Soln.ipynb  # Regressão linear com múltiplas variáveis / Multiple Variable Regression
 │── requirements.txt                             # Dependências do projeto / Project dependencies
 │── README.md                                    # Informações do projeto / Project information
 ```
@@ -48,6 +49,7 @@ LinearRegression-Lab/
 | **C1_W1_Lab03_Cost_function_Soln.ipynb** | Visualização da função de custo convexa para regressão linear (formato "soup bowl"). |
 | **C1_W1_Lab04_Gradient_Descent_Soln.ipynb** | Implementação do algoritmo do gradiente descendente para otimização da regressão linear. |
 | **C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb** | Exercícios sobre vetorização e operações NumPy para otimização computacional. |
+| **C1_W2_Lab02_Multiple_Variable_Soln.ipynb** | Implementação da regressão linear com múltiplas variáveis, incluindo gráficos de custo e vetorização com np.dot. |
 
 ---
 
