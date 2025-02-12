@@ -66,6 +66,17 @@ LinearRegression-Lab/
 
 ## 🔍 Exemplo de Visualização / Example Visualization
 
+## 📜 Exercício de Prova - Regressão Linear
+
+Este repositório agora inclui o exercício de prova da regressão linear, que abrange:
+- Implementação da função de custo `compute_cost()`
+- Cálculo dos gradientes `compute_gradient()`
+- Aplicação do gradiente descendente `gradient_descent()`
+- Previsão de lucro para populações de 35.000 e 70.000 habitantes
+
+📌 **Arquivo:** `C1_W2_Linear_Regression.ipynb`
+
+
 Aqui está um exemplo de visualização gerado pelos notebooks deste laboratório:
 
 
