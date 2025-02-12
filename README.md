@@ -66,6 +66,7 @@ LinearRegression-Lab/
 
 ## 🔍 Exemplo de Visualização / Example Visualization
 
+
 ## 📜 Exercício de Prova - Regressão Linear
 
 Este repositório agora inclui o exercício de prova da regressão linear, que abrange:
