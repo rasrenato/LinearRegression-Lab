@@ -16,6 +16,8 @@ LinearRegression-Lab/
 │── C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb  # Vetorização e operações NumPy / NumPy Vectorization
 │── C1_W2_Lab02_Multiple_Variable_Soln.ipynb  # Regressão linear com múltiplas variáveis / Multiple Variable Regression
 │── C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln.ipynb  # Escalonamento de features e taxa de aprendizado / Feature Scaling and Learning Rate
+│── C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb  # Engenharia de features e regressão polinomial / Feature Engineering and Polynomial Regression
+│── C1_W2_Lab05_Sklearn_GD_Soln.ipynb  # Gradiente descendente com Scikit-Learn / Gradient Descent with Scikit-Learn
 │── requirements.txt                             # Dependências do projeto / Project dependencies
 │── README.md                                    # Informações do projeto / Project information
 ```
@@ -57,6 +59,8 @@ LinearRegression-Lab/
 | **C1\_W2\_Lab01\_Python\_Numpy\_Vectorization\_Soln.ipynb**          | Exercícios sobre vetorização e operações NumPy para otimização computacional.                                    |
 | **C1\_W2\_Lab02\_Multiple\_Variable_Soln.ipynb**                    | Implementação da regressão linear com múltiplas variáveis, incluindo gráficos de custo e vetorização com np.dot. |
 | **C1\_W2\_Lab03\_Feature\_Scaling\_and\_Learning\_Rate\_Soln.ipynb** | Implementação do escalonamento de features e impacto da taxa de aprendizado na convergência.                     |
+| **C1\_W2\_Lab04_FeatEng_PolyReg_Soln.ipynb**                         | Implementação de engenharia de features e regressão polinomial.                                                  |
+| **C1\_W2\_Lab05_Sklearn_GD_Soln.ipynb**                              | Aplicação do gradiente descendente utilizando Scikit-Learn.                                                      |
 
 ---
 
