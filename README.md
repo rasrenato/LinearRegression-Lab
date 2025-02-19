@@ -18,6 +18,7 @@ LinearRegression-Lab/
 │── C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln.ipynb  # Escalonamento de features e taxa de aprendizado / Feature Scaling and Learning Rate
 │── C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb  # Engenharia de features e regressão polinomial / Feature Engineering and Polynomial Regression
 │── C1_W2_Lab05_Sklearn_GD_Soln.ipynb  # Gradiente descendente com Scikit-Learn / Gradient Descent with Scikit-Learn
+│── C1_W3_Lab04_Sklearn_GD_Soln.ipynb  # # Gradiente descendente com Scikit-learn / Gradient Descent with Scikit-learn
 │── requirements.txt                             # Dependências do projeto / Project dependencies
 │── README.md                                    # Informações do projeto / Project information
 ```
@@ -57,10 +58,11 @@ LinearRegression-Lab/
 | **C1\_W1\_Lab03\_Cost\_function\_Soln.ipynb**                        | Visualização da função de custo convexa para regressão linear (formato "soup bowl").                             |
 | **C1\_W1\_Lab04\_Gradient\_Descent\_Soln.ipynb**                     | Implementação do algoritmo do gradiente descendente para otimização da regressão linear.                         |
 | **C1\_W2\_Lab01\_Python\_Numpy\_Vectorization\_Soln.ipynb**          | Exercícios sobre vetorização e operações NumPy para otimização computacional.                                    |
-| **C1\_W2\_Lab02\_Multiple\_Variable_Soln.ipynb**                    | Implementação da regressão linear com múltiplas variáveis, incluindo gráficos de custo e vetorização com np.dot. |
+| **C1\_W2\_Lab02\_Multiple\_Variable_Soln.ipynb**                     |Implementação da regressão linear com múltiplas variáveis, incluindo gráficos de custo e vetorização com np.dot.  |
 | **C1\_W2\_Lab03\_Feature\_Scaling\_and\_Learning\_Rate\_Soln.ipynb** | Implementação do escalonamento de features e impacto da taxa de aprendizado na convergência.                     |
 | **C1\_W2\_Lab04_FeatEng_PolyReg_Soln.ipynb**                         | Implementação de engenharia de features e regressão polinomial.                                                  |
 | **C1\_W2\_Lab05_Sklearn_GD_Soln.ipynb**                              | Aplicação do gradiente descendente utilizando Scikit-Learn.                                                      |
+| **C1_W3_Lab04_LogisticLoss_Soln.ipynb**                              | Implementação da função de perda logística / Implementation of logistic loss function                            |
 
 ---
 
